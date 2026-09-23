@@ -1,4 +1,4 @@
-## Hello there, I'm Gustavo Nogueira
+## Hello there, I'm Gustavo Nogueira 👋🫡
 
 I'm a student learning full-stack development and Cybersecurity !!🔒 <br>
 _Hoping to work as a Pentester_ 👀
