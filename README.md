@@ -1,11 +1,13 @@
 ## Hello there, I'm Gustavo Nogueira
 
-I'm a student learning full-stack development and Cybersecurity. 
+I'm a student learning full-stack development and Cybersecurity !!🔒 <br>
+_Hoping to work as a Pentester_ 👀
 
-I Have a solid base in Python ( being it my main programming language) and Networking. 
+- I Have a solid base in <strong>Python</strong> ( being it my main programming language) and Networking. 
 
-I also have the basics of HTML5, CSS, Javascript and Linux.<br>
-Learning and expanding my skills, aiming to learn more about mainly security but also Databases and others.
+- I also have the basics of <strong>HTML5, CSS, Javascript and Linux</strong>.<br>
+
+Learning and expanding my skills, aiming to learn more about mainly <strong>security</strong> but also <strong>Databases and others</strong>.
 
 <h3>Languages</h3>
 
