@@ -7,7 +7,7 @@ _Hoping to work as a Pentester_ 👀
 
 - I also have the basics of <strong>HTML5, CSS, Javascript and Linux</strong>.<br>
 
-Learning and expanding my skills, aiming to learn more about mainly <strong>security</strong> but also <strong>Databases and others</strong>.
+Learning and expanding my skills, focused on expanding skills in  <strong>Full-Stack Development</strong>, with a special emphasis and dedication to <strong> Cybersecurity</strong>.
 
 <h3>Languages</h3>
 
