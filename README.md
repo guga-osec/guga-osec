@@ -9,6 +9,13 @@ _Hoping to work as a Pentester_ 👀
 
 Learning and expanding my skills, focused on expanding skills in  <strong>Full-Stack Development</strong>, with a special emphasis and dedication to <strong> Cybersecurity</strong>.
 
+<h3>Operating Systems</h3>
+
+<div style="display: flex; gap: 5px; align-items: center;">
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/linux/linux-original.svg">
+  <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/windows11/windows11-original.svg">
+</div>
+
 <h3>Languages</h3>
 
 <div style="display: flex; gap: 5px; align-items: center;">
@@ -32,9 +39,4 @@ Learning and expanding my skills, focused on expanding skills in  <strong>Full-S
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/postgresql/postgresql-original.svg">
 </div>
 
-<h3>Operating Systems</h3>
 
-<div style="display: flex; gap: 5px; align-items: center;">
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/linux/linux-original.svg">
-  <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/windows11/windows11-original.svg">
-</div>
