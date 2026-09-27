@@ -39,4 +39,6 @@ Learning and expanding my skills, focused on expanding skills in  <strong>Full-S
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/postgresql/postgresql-original.svg">
 </div>
 
+<h3>Github Stats</h3>
+![guga-osec's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs?username=guga-osec&langs_count=4&theme=nightowl)
 
