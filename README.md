@@ -40,4 +40,5 @@ Learning and expanding my skills, focused on expanding skills in  <strong>Full-S
 </div>
 
 <h3>Github Stats</h3>
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=guga-osec&langs_count=3&theme=nightowl)]
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=guga-osec)](https://github.com/stats-organization/github-stats-extended)
